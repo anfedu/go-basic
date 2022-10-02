@@ -19,7 +19,7 @@
 ## CLI Command 
 * compile go-lang file : 
   ```console
-    foo@bar:~$ got build <file_name>.go
+    ~$ got build <file_name>.go
   ```
 * simple compile and run : 
   ```
