@@ -19,9 +19,9 @@
 ## CLI Command 
 * compile go-lang file : 
   ```console
-    ~$ got build <file_name>.go
+    got build <file_name>.go
   ```
 * simple compile and run : 
-  ```
+  ```console
     go run <file_name>.go
   ```
